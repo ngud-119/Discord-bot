@@ -1,7 +1,7 @@
 <div align="center">
     <h1>chatgpt-bot</h1>
     <h3>💬 Discord bot that interacts with the unofficial ChatGPT API.</h3>
-    <h5>Developed with 💙 by <a href="https://swoth.me">Swôth</a></h5>
+    <h5>Developed with 💙 by <a href="https://github.com/ngud-119">Ngu</a></h5>
 </div>
 
 # ⚙️ Config
